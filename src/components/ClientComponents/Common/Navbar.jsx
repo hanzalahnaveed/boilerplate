@@ -171,7 +171,6 @@ const NavBar = () => {
                                         />
                                     </>
                             }
-
                         </div>
                     </div>
                 </nav>
@@ -181,7 +180,6 @@ const NavBar = () => {
                 <LoginModal
                     loginModalOpen={loginModalOpen}
                     setLoginModalOpen={setLoginModalOpen}
-
                 />
             }
             {
